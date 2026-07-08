@@ -1,3 +1,11 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/5GYFwgZR)
 # Proyecto-Final
 Proyecto Final de cada grupo
+Grupo 3 
+Integrantes: 
+Montero Chicoma Fabio Ricardo. 
+Villegas Torres Miguel Angel. 
+Sachahuaman Jaramillo Alejandro. 
+Salazar Ruiz Angel Eduardo Daniel. 
+Hidalgo Sanchez Adonis Yordi. 
+Calla Chavez Jose David. 
