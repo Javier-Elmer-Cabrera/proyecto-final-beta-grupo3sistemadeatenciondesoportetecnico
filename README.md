@@ -8,4 +8,5 @@ Villegas Torres Miguel Angel.
 Sachahuaman Jaramillo Alejandro. 
 Salazar Ruiz Angel Eduardo Daniel. 
 Hidalgo Sanchez Adonis Yordi. 
-Calla Chavez Jose David. 
+Calla Chavez Jose David.  
+Zavala Tapia Alexander Antonio.
